@@ -6,7 +6,7 @@ body {
 }
 
 header{
-    background-image: url("../make-essential-UI-components-Resources/assets/hero-bg.png");
+    background-image: url("./assets/hero-bg.png");
     background-size: cover;
     background-position: center;
     width: 1920px;
